@@ -39,7 +39,7 @@ https://www.youtube.com/watch?v=sh3POwoTEzY
 **!crowns**: Change the bots crown wins
 - Example: ``!crowns 943``
 - MAX: 99,999
-- (I recommend you do "!emote crowning achievement" to actually show it off)
+(I recommend you do "!emote crowning achievement" to actually show it off)
 
 **!ready**: Readies up
 - Example: ``!ready true``

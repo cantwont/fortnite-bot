@@ -17,7 +17,9 @@ This project is a simple Fortnite bot written in Node.js that allows you to inte
 ## Authentication
 
 Get your authentication code from this website here: https://www.epicgames.com/id/api/redirect?clientId=3446cd72694c4a4485d81b77adbb2141&responseType=code
+
 This is an official Epic Games website and all it does is give you the code you need to use this bot.
+
 I recommend you use this on a brand new Fortnite account as this might be bannable (not entirely sure) and I am not responsible for any actions done to your account.
 
 ## Video Demonstration

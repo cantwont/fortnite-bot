@@ -12,4 +12,4 @@ This project is a simple Fortnite bot written in Node.js that allows you to inte
 
 ## Video Demonstration
 
-![Video](https://youtu.be/sh3POwoTEzY)
+![Video](https://www.youtube.com/watch?v=sh3POwoTEzY)
